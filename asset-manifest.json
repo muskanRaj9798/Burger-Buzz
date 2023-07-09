@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Burger-Buzz/static/css/main.0aeb95c9.css",
+    "main.js": "/Burger-Buzz/static/js/main.fe4f8c16.js",
+    "static/media/burger3.png": "/Burger-Buzz/static/media/burger3.11eccfcb1a45834ac9d7.png",
+    "static/media/burger2.png": "/Burger-Buzz/static/media/burger2.3a02b94cd44d825ebb94.png",
+    "static/media/bg.png": "/Burger-Buzz/static/media/bg.e25df216162c9b2fc988.png",
+    "static/media/burger1.png": "/Burger-Buzz/static/media/burger1.6cbf3dc63aff1ced8e98.png",
+    "static/media/founder.jpg": "/Burger-Buzz/static/media/founder.360ff7cd3edc8c2d70e8.jpg",
+    "static/media/bg.svg": "/Burger-Buzz/static/media/bg.e53655d9837b2c7792a3.svg",
+    "index.html": "/Burger-Buzz/index.html",
+    "main.0aeb95c9.css.map": "/Burger-Buzz/static/css/main.0aeb95c9.css.map",
+    "main.fe4f8c16.js.map": "/Burger-Buzz/static/js/main.fe4f8c16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aeb95c9.css",
+    "static/js/main.fe4f8c16.js"
+  ]
+}
